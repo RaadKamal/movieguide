@@ -1,4 +1,4 @@
-# COMP 3350 Semester Project
+# COMP 3350 Semester Project (INCOMPLETE UPLOAD)
 
 The purpose of this project is to create a Android application for Nexus 7 tablet while learning the standards of
 software development. We were given groups to work with as a team for the entire semester, held weekly meetings, and
