@@ -1,4 +1,4 @@
-# COMP 3350 Semester Project (INCOMPLETE UPLOAD)
+# (INCOMPLETE UPLOAD)
 
 The purpose of this project is to create a Android application for Nexus 7 tablet while learning the standards of
 software development. We were given groups to work with as a team for the entire semester, held weekly meetings, and
@@ -19,7 +19,7 @@ To run the app, please clone the main branch of this repository that contains th
 
 From command line, this can be done by navigating to a folder of your choice and executing this command:
 
-git clone https://code.cs.umanitoba.ca/winter-2022-a02/group-3/movie-recommendation-app.git
+
 
 Then, open the project in android studio, gradle build, and run the app on a Nexus 7 tablet emulator.
 
@@ -28,11 +28,11 @@ Then, open the project in android studio, gradle build, and run the app on a Nex
 VISION.md contains the vision statement that we wrote at the beginning of this project to guide design decisions
 as well as the branching strategy that we used for version control.
 
-[Link to VISION.md](https://code.cs.umanitoba.ca/winter-2022-a02/group-3/movie-recommendation-app/-/tree/main/VISION.md)
+
 
 ARCHITECTURE.md contains an diagram that shows the file structure of our project.
 
-[Link to ARCHITECTURE.md](https://code.cs.umanitoba.ca/winter-2022-a02/group-3/movie-recommendation-app/-/tree/main/ARCHITECURE.md)
+
 
 
 
